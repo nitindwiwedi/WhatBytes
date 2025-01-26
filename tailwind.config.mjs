@@ -7,6 +7,7 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundColor: ['active'],
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
